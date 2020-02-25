@@ -1,2 +1,2 @@
-# Sistemas-num-ricos-2020
+# Sistemas-numericos-2020
 Tarea
